@@ -18,7 +18,7 @@ To use this tool, navigate to the project's directory in your terminal and run t
 
 A sample of a SVG file generated with this tool is included as [example.svg](./examples/example.svg) in the `examples` directory. A PNG image of the example has also been included (as [example.png](./examples/example.png)).
 
-A walkthrough of the functionality of the tool is provided in the following video: [Walkthrough video](./walkthrough.webm)
+A walkthrough of the functionality of the tool is provided in the following video:
 
 ## Tests
 
